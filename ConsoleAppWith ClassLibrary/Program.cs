@@ -6,7 +6,7 @@ namespace ConsoleAppWith_ClassLibrary
         static void Main(string[] args)
         {
             Demo demoCL = new Demo();
-            demoCL.greet();
+            demoCL.message();
         }
     }
 }

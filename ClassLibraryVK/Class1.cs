@@ -8,7 +8,7 @@ namespace ClassLibraryVK
 {
     public class Demo
     {
-        public void greet()
+        public void message()
         {
             Console.WriteLine("I am great! ");
         
